@@ -42,5 +42,3 @@ int main(void)
 	printf("Unknown:[%r]\n");
 	return (0);
 }
-Footer
-© 2023 GitHub, Inc.
